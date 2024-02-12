@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @lukesamson66
+- 👀 I’m interested in software development and cyber security.
+- 🌱 I’m currently learning computer architecture and organzation, software engineering, and React Native
+- 📫 How to reach me - email: lukesamson66@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love sports whether it's playing them or watching them
